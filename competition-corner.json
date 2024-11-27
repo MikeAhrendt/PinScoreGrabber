@@ -1,0 +1,237 @@
+[
+    {
+        "channelName": "competition-corner",
+        "weeks": [
+            {
+                "_id": "67447b0f80c1aa5d8c7e57a5",
+                "channelName": "competition-corner",
+                "weekNumber": 234,
+                "periodStart": "2024-11-25",
+                "periodEnd": "2024-12-01",
+                "table": "Stingray (Stern 1977)",
+                "authorName": "Bord, Apophis, TastyWasps",
+                "versionNumber": "2.0.0",
+                "vpsId": "w5_IkLd0",
+                "mode": "default",
+                "tableUrl": "https://vpuniverse.com/files/file/14533-stingray-stern-1977/",
+                "romUrl": "http://www.vpforums.org/index.php?app=downloads&showfile=728",
+                "romName": "stingray",
+                "b2sUrl": "https://vpuniverse.com/files/file/14531-stingray-stern-1977-b2s/",
+                "season": null,
+                "currentSeasonWeekNumber": null,
+                "notes": null,
+                "scores": [
+                    {
+                        "username": "primetime5k",
+                        "userAvatarUrl": "https://cdn.discordapp.com/avatars/713782752662781982/62c989b213a92770d1fb6c81ca28556f.webp",
+                        "score": 1596830,
+                        "diff": 1596830,
+                        "mode": "default",
+                        "posted": "11/27/2024 17:35:48",
+                        "points": 12
+                    },
+                    {
+                        "username": "becausereasons",
+                        "userAvatarUrl": "https://cdn.discordapp.com/avatars/201830562200027137/a_394759d2cd8221c4bba11e3201943318.gif",
+                        "score": 920540,
+                        "diff": 91750,
+                        "mode": "default",
+                        "posted": "11/26/2024 23:42:54",
+                        "points": 10
+                    },
+                    {
+                        "username": "ballmrk",
+                        "userAvatarUrl": "https://cdn.discordapp.com/avatars/887351015043653663/941d8780e75b4271cd062c13cecd9fb8.webp",
+                        "score": 861230,
+                        "diff": 330790,
+                        "mode": "default",
+                        "posted": "11/26/2024 17:56:22",
+                        "points": 9
+                    },
+                    {
+                        "username": "mikepmcs",
+                        "userAvatarUrl": "https://cdn.discordapp.com/avatars/1069383371127541800/aa45caf14bb88e8273b61b84cb834dde.webp",
+                        "score": 856860,
+                        "diff": 255890,
+                        "mode": "default",
+                        "posted": "11/27/2024 12:40:17",
+                        "points": 8
+                    },
+                    {
+                        "username": "den_laef",
+                        "userAvatarUrl": "https://cdn.discordapp.com/avatars/618736726478815232/93b82a5dd5fe774520c2116813f59be9.webp",
+                        "score": 762920,
+                        "diff": 762920,
+                        "mode": "default",
+                        "posted": "11/25/2024 22:27:00",
+                        "points": 7
+                    },
+                    {
+                        "username": "lminimart",
+                        "userAvatarUrl": "https://cdn.discordapp.com/avatars/975365507794493490/c5e007672c76a09f26066bc10b8ded41.webp",
+                        "score": 571950,
+                        "diff": 87640,
+                        "mode": "default",
+                        "posted": "11/26/2024 11:50:05",
+                        "points": 6
+                    },
+                    {
+                        "username": "bietekwiet",
+                        "userAvatarUrl": "https://cdn.discordapp.com/avatars/339588163196682251/6d3094ed53449922ee80f269c29fa9f6.webp",
+                        "score": 569860,
+                        "diff": 83580,
+                        "mode": "default",
+                        "posted": "11/26/2024 16:18:44",
+                        "points": 5
+                    },
+                    {
+                        "username": "wolfanoz",
+                        "userAvatarUrl": "https://cdn.discordapp.com/avatars/221443706048348162/35ef73ae42bf433efdca569cb874ca5f.webp",
+                        "score": 532580,
+                        "diff": 90650,
+                        "mode": "default",
+                        "posted": "11/27/2024 01:09:32",
+                        "points": 4
+                    },
+                    {
+                        "username": "s0l1dxsnake",
+                        "userAvatarUrl": "https://cdn.discordapp.com/avatars/657986823192313872/9ffeef4cbc2d750f2f375f510dc0e01c.webp",
+                        "score": 502670,
+                        "diff": 502670,
+                        "mode": "default",
+                        "posted": "11/25/2024 16:09:46",
+                        "points": 3
+                    },
+                    {
+                        "username": "smedleybumblechuck",
+                        "userAvatarUrl": "https://cdn.discordapp.com/avatars/999038745242239028/5ae60b29788c6270e3258027168c4d5f.webp",
+                        "score": 441310,
+                        "diff": 441310,
+                        "mode": "default",
+                        "posted": "11/27/2024 00:14:45",
+                        "points": 2
+                    },
+                    {
+                        "username": "wolfdanthegamer",
+                        "userAvatarUrl": "https://cdn.discordapp.com/avatars/266746694756990976/6ba3b96b1f85519c6c35876f44fe9d3b.webp",
+                        "score": 422910,
+                        "diff": 74590,
+                        "mode": "default",
+                        "posted": "11/25/2024 17:03:55",
+                        "points": 1
+                    },
+                    {
+                        "username": "zaph_b",
+                        "userAvatarUrl": "https://cdn.discordapp.com/avatars/237875279106801664/59efd7bbc276467da6466addd979836a.webp",
+                        "score": 389530,
+                        "diff": 389530,
+                        "mode": "default",
+                        "posted": "11/27/2024 09:43:03",
+                        "points": 1
+                    },
+                    {
+                        "username": "donkeyklonk",
+                        "userAvatarUrl": "https://cdn.discordapp.com/avatars/217694738915000330/28929431a7bd61c9fe20b57c7541b2f4.webp",
+                        "score": 363610,
+                        "diff": 363610,
+                        "mode": "default",
+                        "posted": "11/26/2024 15:31:30",
+                        "points": 1
+                    },
+                    {
+                        "username": "cdogbrink",
+                        "userAvatarUrl": "https://cdn.discordapp.com/avatars/1236648334903611442/13e4a5dd5115e9034d1831df7d281380.webp",
+                        "score": 320340,
+                        "diff": 320340,
+                        "mode": "default",
+                        "posted": "11/26/2024 21:30:56",
+                        "points": 1
+                    },
+                    {
+                        "username": "dgrimmreaper",
+                        "userAvatarUrl": "https://cdn.discordapp.com/avatars/394334388281933825/ce9a56cad6fef63b7ee89d321945c717.webp",
+                        "score": 305220,
+                        "diff": 305220,
+                        "mode": "default",
+                        "posted": "11/27/2024 03:04:39",
+                        "points": 1
+                    },
+                    {
+                        "username": "kentayeyen",
+                        "userAvatarUrl": "https://cdn.discordapp.com/avatars/546012489171730435/18c1046bea811002a11b2bd73f71cb4d.webp",
+                        "score": 298020,
+                        "diff": 298020,
+                        "mode": "default",
+                        "posted": "11/26/2024 21:17:33",
+                        "points": 1
+                    },
+                    {
+                        "username": "nelsonpj",
+                        "userAvatarUrl": "https://cdn.discordapp.com/avatars/447126071008165903/405bbace367db7b50a5f326a12741579.webp",
+                        "score": 289990,
+                        "diff": 289990,
+                        "mode": "default",
+                        "posted": "11/25/2024 18:11:08",
+                        "points": 1
+                    },
+                    {
+                        "username": "houseofhayne",
+                        "userAvatarUrl": "https://cdn.discordapp.com/avatars/869585159702335549/4f677f0b2fc0ef7977a3892820e5893e.webp",
+                        "score": 283040,
+                        "diff": 283040,
+                        "mode": "default",
+                        "posted": "11/26/2024 02:37:14",
+                        "points": 1
+                    },
+                    {
+                        "username": "lordtheron",
+                        "userAvatarUrl": "https://cdn.discordapp.com/avatars/480430659823861780/d72a16ce64ff21e2201029fdc06e404f.webp",
+                        "score": 262680,
+                        "diff": 33180,
+                        "mode": "default",
+                        "posted": "11/25/2024 16:40:48",
+                        "points": 1
+                    },
+                    {
+                        "username": ".colvert",
+                        "userAvatarUrl": "https://cdn.discordapp.com/avatars/497405459381354527/5dfb710f0870ab04b3975153cec51f01.webp",
+                        "score": 242700,
+                        "diff": 242700,
+                        "mode": "default",
+                        "posted": "11/25/2024 17:33:47",
+                        "points": 1
+                    },
+                    {
+                        "username": "ondulado22",
+                        "userAvatarUrl": "https://cdn.discordapp.com/avatars/723703434632495205/9fe9a96c313cac74bd3cd3bc8135e25b.webp",
+                        "score": 209150,
+                        "diff": 3580,
+                        "mode": "default",
+                        "posted": "11/26/2024 00:22:54",
+                        "points": 1
+                    },
+                    {
+                        "username": "benoitdis",
+                        "userAvatarUrl": "https://cdn.discordapp.com/avatars/468543001380126733/6dbc9586314c8d1d89c079d5cc403be8.webp",
+                        "score": 200070,
+                        "diff": 18770,
+                        "mode": "default",
+                        "posted": "11/26/2024 18:06:02",
+                        "points": 1
+                    },
+                    {
+                        "username": "bigguy33",
+                        "userAvatarUrl": "https://cdn.discordapp.com/avatars/338266838775365634/a_96437d70d48d4b5116a88c74fe339d31.gif",
+                        "score": 110810,
+                        "diff": 110810,
+                        "mode": "default",
+                        "posted": "11/27/2024 00:52:22",
+                        "points": 1
+                    }
+                ],
+                "teams": [],
+                "isArchived": false
+            }
+        ]
+    }
+]
